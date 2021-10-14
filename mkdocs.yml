@@ -1,0 +1,8 @@
+site_name: 冰与火之歌
+nav:
+    - Home: index.md
+    - 权利的游戏:
+       - 权利的游戏/000-序.md
+
+theme:
+    name: 'material'
