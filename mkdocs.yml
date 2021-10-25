@@ -3,6 +3,7 @@ nav:
     - Home: index.md
     - 权利的游戏:
        - 权利的游戏/000-序.md
+       - 权利的游戏/001-布兰.md
 
 theme:
     name: 'material'
