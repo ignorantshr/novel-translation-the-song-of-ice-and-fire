@@ -2,8 +2,8 @@ site_name: 冰与火之歌
 nav:
     - Home: index.md
     - 权利的游戏:
-       - 权利的游戏/000-序.md
-       - 权利的游戏/001-布兰.md
+        - 000 序: 000-序.md
+        - 001 布兰: 001-布兰.md
 
 theme:
     name: 'material'
