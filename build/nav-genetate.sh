@@ -11,7 +11,7 @@ for dir in ${dirs}; do
 		oname=${page#*/}
 		fname=${oname%.*}
 		fname=${fname/-/ }
-		nav="${nav}        - ${fname}: ${oname}\n"
+		nav="${nav}        - ${fname}: ${dir}/${oname}\n"
 	done
 done
 nav=${nav%\\*}
